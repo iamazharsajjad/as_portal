@@ -1,0 +1,9 @@
+/*
+ *= require_tree .
+ */
+@import 'vendor/fontawesome-free/all.min';
+
+@import 'sb-admin-2';
+@import 'sb-admin-2.min';
+
+@import 'scss/sb-admin-2';
